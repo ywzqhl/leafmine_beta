@@ -126,7 +126,7 @@ const App = () => {
           ]
         }}
         actionsConfiguration={{
-          twaReturnUrl: 'https://t.me/DemoDappWithTonConnectBot/demo'
+          twaReturnUrl: 'https://t.me/duangkittybot/duangkitty'
         }}
       >
         <div className="app">
