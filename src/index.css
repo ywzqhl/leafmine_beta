@@ -1,0 +1,173 @@
+.logo{
+  width: 70px;
+}
+.head{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5px;
+}
+.storage{
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  opacity: 0.3;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.balance{
+  font-weight: bold;
+  font-size: 40px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+html {
+  height: 100%;
+}
+body{
+  background: rgb(239,254,216);
+background: linear-gradient(180deg, rgba(239,254,216,1) 0%, rgba(124,180,45,1) 100%);
+
+
+}
+.tree img{
+  width: 80%;
+}
+.tree{
+  display: flex;
+  justify-content: space-around;
+}
+.bag img{
+  width: 50px;
+
+}
+.bag{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 30px;
+  background-color: whitesmoke;
+  padding: 20px;
+  border-radius: 20px;
+  font-weight: 500;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#claim{
+  padding: 15px;
+  /* background-color: gold; */
+  border-radius: 10px;
+  opacity: 0.7;
+  border: none;
+
+}
+#claim:hover{
+  background-color: gray;
+
+}
+.btm{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 20px;
+  text-align: center;
+  /* background-color: white; */
+  
+}
+.btmm{
+  background-color: white;
+  width: 70px;
+  height: 60px;
+  color: black;
+  padding: 5px;
+  border-radius: 20px;
+  font-weight: bold;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#boost{
+  width: 30px;
+}
+*{
+  text-decoration: none;
+}
+.social div img{
+  width: 50px;
+}
+.social div{
+  
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  border-radius: 20px;
+  border: 5px solid green;
+  margin-bottom: 20px;
+}
+.social div button{
+  border: none;
+  padding: 10px;
+  border-radius: 10px;
+  /* background-color: gold; */
+}
+.header{
+  display: flex;
+  flex-direction: row-reverse;
+  margin-right: 10px;
+  
+}
+.logo{
+  width: 70px;
+}
+.amount{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5px;
+}
+.a{
+  text-align: center;
+  margin-top: 60px;
+  font-size: 20px;
+  font-weight: bold;
+  opacity: 0.3;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.amount img{
+  width: 60px;
+}
+.amount div{
+  font-weight: bold;
+  font-size: 40px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.deposit{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+.deposit button{
+  /* background-color: white; */
+  /* padding: 20px;
+  border-radius: 10px; */
+  /* font-weight: 600; */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+button {
+  border: none;
+  outline: none;
+  background-color: #6c5ce7;
+  padding: 10px 20px;
+  font-size: 12px;
+  font-weight: 700;
+  color: #fff;
+  border-radius: 5px;
+  transition: all ease 0.1s;
+  box-shadow: 0px 5px 0px 0px #a29bfe;
+}
+
+button:active {
+  transform: translateY(5px);
+  box-shadow: 0px 0px 0px 0px #a29bfe;
+}
