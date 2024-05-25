@@ -1,5 +1,5 @@
 const { Telegraf } = require("telegraf");
-const TOKEN = "7041763974:AAHRVMVsFza1HneXfKDifYY2or2ydoX93S8";
+const TOKEN = "6820674346:AAGXI04qSIvcqeCr_6coRs_rO7tBt1vya48";
 const bot = new Telegraf(TOKEN);
 
 const web_link = "https://leafmine.vercel.app/";
